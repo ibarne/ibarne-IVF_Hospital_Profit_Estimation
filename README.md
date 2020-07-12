@@ -1,4 +1,4 @@
-# ibarne-IVF_Hospital_Profit_Estimation
+# IVF_Hospital_Profit_Estimation
 A small simulation of Profit Estimation with UDF using R
 
 An IVF Hospital Chain with a nationwide capacity of 1000 patients per month and 100 patients per center have been instructed to do annual budget planning. As part of the same, they are analyzing patient footfalls and revenues.
